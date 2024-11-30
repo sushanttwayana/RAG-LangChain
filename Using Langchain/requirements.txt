@@ -1,0 +1,23 @@
+langchain_openai 
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+pypdf
+pytest
+langchain
+langchain
+pypdf
+pytest
+langchain-openai
+langchain_openai 
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+fastapi[all]
+sse_starlette
+beautifulsoup4
+faiss-cpu
+# chromadb
+sentence_transformers 
